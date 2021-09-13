@@ -78,6 +78,7 @@ footer{
 
 .tab{
   margin-top: 20px;
+  text-align: left;
 }
 
 .sugg{
@@ -110,4 +111,8 @@ color: #2DAEE6;
 
 .px-fix {
   font-size: 18px;
+}
+
+thead {
+  color: white;
 }
