@@ -1,0 +1,143 @@
+
+/* BONUS */
+
+
+.bonus {
+  width: 78%;
+  margin: auto;
+}
+
+.b-logo {
+  margin-top: 40px;
+  margin-left: 11%;
+  height: 50px;
+}
+
+
+/* /BONUS */
+
+
+/* generals */
+body {
+  margin: auto;
+
+ }
+
+.content {
+  padding: 10px;
+
+ 
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+h3 {
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+h4 {
+  margin-top: 0px;
+  font-size: 12px;
+}
+
+/* Span  */
+.yellow-marker {
+  background-color: #FFFF00;
+}
+
+.blue-word {
+color: #2DAEE6;
+}
+.grey-word {
+  color: #808080;
+}
+
+.px-fix {
+  font-size: 16px;
+}
+/* /Span */
+
+/* header */
+header {
+  background-image: url("../img/pattern.png"); 
+  background-repeat: repeat-x;
+  background-size: 400px;
+  background-color: #4EA0FF;
+  height: 100px ;
+  margin-bottom: 10px;
+}
+
+.logo {
+  margin-top: 40px;
+  margin-left: 10px;
+  height: 50px;
+}
+
+/* main photos */
+.main-photos {
+  margin-bottom: 10px;
+}
+
+.list {
+  margin-bottom: 20px;
+}
+
+
+/* tabella */
+.th-exp {
+  width: 50%;
+}
+
+.tab {
+  margin-top: 20px;
+  text-align: left;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+thead {
+  color: white;
+  background-color: #20A9E5 ;
+}
+
+.td-1 {
+  background-color: #B1E5F2 ;
+}
+/* /tabella */
+
+/* footer */
+footer{
+  padding: 10px;
+}
+
+.sugg {
+  color: white;
+  margin-top: 10px;
+}
+
+.suggestion-a {
+  background-image: url("../img/monitor.jpg"); 
+  width: 210px;
+  height: 160px;
+  padding: 15px;
+  margin-bottom: 10px;
+}
+
+.suggestion-b {
+  background-image: url("../img/graph.jpg"); 
+  width: 210px;
+  height: 160px;
+  padding: 15px;
+}
+
+
+
+
+
