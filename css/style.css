@@ -6,7 +6,7 @@ header{
   background-image: url("../img/pattern.png"); 
   background-repeat: repeat-x;
   background-size: 400px;
-  background-color: rgb(0, 140, 255);
+  background-color: #4EA0FF;
   height: 100px ;
   margin-bottom: 10px;
 }
@@ -27,7 +27,7 @@ h1{
 h3{
   margin-bottom: 0px;
   margin-top: 0px;
-  color: black;
+ 
 }
 
 h4{
@@ -45,27 +45,69 @@ h4{
 
 
 footer{
-  color: white;
+
 }
 
 .suggestion-a {
   background-image: url("../img/monitor.jpg"); 
-  width: 200px;
-  height: 200px;
+  width: 210px;
+  height: 160px;
   background-repeat: no-repeat;
   padding: 15px;
+
 
 }
 
 .suggestion-b {
   background-image: url("../img/graph.jpg"); 
-  width: 200px;
-  height: 200px;
+  width: 210px;
+  height: 160px;
   background-repeat: no-repeat;
   padding: 15px;
+
 
 }
 
 .content{
   padding: 10px;
+}
+
+.list{
+  margin-bottom: 20px;
+}
+
+.tab{
+  margin-top: 20px;
+}
+
+.sugg{
+  color: white;
+  margin-top: 10px;
+}
+
+thead{
+  background-color: #20A9E5 ;
+}
+
+td{
+
+}
+.td-1{
+  background-color: #B1E5F2 ;
+}
+
+.yellow-marker {
+  background-color: #FFFF00;
+}
+
+.blue-word {
+color: #2DAEE6;
+}
+.grey-word {
+  color: #808080;
+  }
+
+
+.px-fix {
+  font-size: 18px;
 }
