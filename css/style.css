@@ -1,5 +1,7 @@
+
+
 body{
-  margin: auto;
+  margin: 0;
  }
 
 header{
@@ -43,31 +45,6 @@ h4{
   margin-bottom: 10px;
 }
 
-
-footer{
-
-}
-
-.suggestion-a {
-  background-image: url("../img/monitor.jpg"); 
-  width: 210px;
-  height: 160px;
-  background-repeat: no-repeat;
-  padding: 15px;
-
-
-}
-
-.suggestion-b {
-  background-image: url("../img/graph.jpg"); 
-  width: 210px;
-  height: 160px;
-  background-repeat: no-repeat;
-  padding: 15px;
-
-
-}
-
 .content{
   padding: 10px;
 }
@@ -76,10 +53,18 @@ footer{
   margin-bottom: 20px;
 }
 
+/* tabella */
 .tab{
   margin-top: 20px;
   text-align: left;
+  
 }
+
+table {
+  border-collapse: collapse;
+}
+
+/* /tabella */
 
 .sugg{
   color: white;
@@ -113,6 +98,45 @@ color: #2DAEE6;
   font-size: 18px;
 }
 
+.td-1{
+  background-color: #B1E5F2 ;
+}
+
+.yellow-marker {
+  background-color: #FFFF00;
+}
+
 thead {
   color: white;
+}
+
+footer{
+  padding: 10px ;
+
+}
+
+.suggestion-a {
+  background-image: url("../img/monitor.jpg"); 
+  width: 210px;
+  height: 160px;
+  background-repeat: no-repeat;
+  padding: 15px;
+
+
+}
+
+.suggestion-b {
+  background-image: url("../img/graph.jpg"); 
+  width: 210px;
+  height: 160px;
+  background-repeat: no-repeat;
+  padding: 15px;
+
+
+}
+
+
+
+.th-exp {
+  width: 50%;
 }
